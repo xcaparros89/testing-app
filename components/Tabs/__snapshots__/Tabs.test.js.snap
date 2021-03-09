@@ -8,6 +8,7 @@ exports[`<Tabs /> matches snapshot 1`] = `
     >
       <li
         class=""
+        data-testid="tab-1"
       >
         <a
           href="#"
@@ -17,6 +18,7 @@ exports[`<Tabs /> matches snapshot 1`] = `
       </li>
       <li
         class=""
+        data-testid="tab-2"
       >
         <a
           href="#"
@@ -26,6 +28,7 @@ exports[`<Tabs /> matches snapshot 1`] = `
       </li>
       <li
         class="current"
+        data-testid="tab-3"
       >
         <a
           href="#"
@@ -36,6 +39,7 @@ exports[`<Tabs /> matches snapshot 1`] = `
     </ul>
     <div
       class="content"
+      data-testid="content"
     >
       <h2>
         Title 3
